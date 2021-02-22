@@ -1,4 +1,4 @@
-# baidu_api_ocr
+# BaiduAPI-OCR
 通过百度API来实现OCR识别
 
 # 说明
